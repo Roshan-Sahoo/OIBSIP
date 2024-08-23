@@ -1,3 +1,4 @@
+#BMI calculator
 def calculate_bmi(weight, height):
     """Calculate the Body Mass Index (BMI) using weight and height."""
     return weight / (height ** 2)
